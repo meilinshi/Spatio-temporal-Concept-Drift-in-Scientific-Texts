@@ -1,5 +1,5 @@
 # Spatio-temporal-Concept-Drift-in-Scientific-Texts
-This repository contains the code for the paper titled **"What, When, and Where Do You Mean? Detecting Spatio-Temporal Concept Drift in Scientific Texts"**, accepted at **Thirteenth International Conference on Geographic Information Science (GIScience 2025)**.
+This repository contains the code for *What, When, and Where Do You Mean? Detecting Spatio-Temporal Concept Drift in Scientific Texts*. In 13th International Conference on Geographic Information Science (GIScience 2025). https://doi.org/10.4230/LIPIcs.GIScience.2025.16
 
 The dataset used in this research is from: 
 
